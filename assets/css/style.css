@@ -1,0 +1,37 @@
+.jumbotron, #button-bar {
+    background-image: url('https://cdn.pixabay.com/photo/2017/08/06/22/59/abstract-2597264_960_720.jpg');
+    text-align: center;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    width: 60px;
+  }
+  
+.fa:hover {
+      opacity: 0.7;
+  }
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+.fa-envelope {
+    background: #430297;
+    color: white;
+  }
+
+.fa-github {
+    background: #000000;
+    color: white;
+  }
+
+#name, #social {
+    text-align: center;
+}

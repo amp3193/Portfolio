@@ -1,6 +1,7 @@
-.jumbotron, #button-bar {
-    background-image: url('https://cdn.pixabay.com/photo/2017/08/06/22/59/abstract-2597264_960_720.jpg');
+.jumbotron {
+    background-image: url('assets/images/bannerimage.jpg'); 
     text-align: center;
+    margin-bottom: 5px;
 }
 
 .fa {
@@ -34,4 +35,8 @@
 
 #name, #social {
     text-align: center;
+}
+
+.navbar {
+
 }

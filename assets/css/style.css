@@ -1,8 +1,24 @@
+body {
+    background-image: url("C:/bootcamp/portfolio/assets/images/lights3.jpg");
+    background-size: 100%; 
+}
+
 .jumbotron {
-    background-image: url('assets/images/bannerimage.jpg'); 
+    background-image: url("C:/bootcamp/portfolio/assets/images/lights3.jpg"); 
     text-align: center;
     margin-bottom: 5px;
+    background-size: 100%;
+    
+    
 }
+
+#name-text {
+    background-color: #979899;
+    color: black;
+    font-weight: bold;
+    margin: 0 auto; 
+    mix-blend-mode: screen; 
+  }
 
 .fa {
     padding: 10px;
@@ -38,5 +54,16 @@
 }
 
 .navbar {
-
+    margin-bottom: 5px;
+    font-weight: bold;
 }
+
+#project-cards-bottom {
+    margin-top: 5px;
+}
+
+#pic-card {
+    margin-bottom: 10px;
+    mix-blend-mode: screen; 
+}
+

@@ -11,6 +11,26 @@ body {
     
     
 }
+.container-fluid {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  margin: 20px;
+  padding: 0px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.row {
+  padding-top: 10px;
+
+}
 
 #name-text {
     background-color: #979899;
